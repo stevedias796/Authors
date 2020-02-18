@@ -1,0 +1,5 @@
+gunicorn==19.9.0
+django==3.0.3
+jinja2==2.10.1
+Werkzeug==0.15.5
+json==2.0.9
