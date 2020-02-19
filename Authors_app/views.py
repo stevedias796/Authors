@@ -25,6 +25,7 @@ def home(request):
     names = Author.objects.all()
     resp = []
     for x in names:
+        print(x)
         resp.append(x)
     return render(request, "home.html", {'authors':resp})
 
