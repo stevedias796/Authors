@@ -1,6 +1,6 @@
 gunicorn==19.9.0
 django==3.0.3
-jinja2==2.10.1
+jinja2==2.11.3
 Werkzeug==0.15.5
 django-heroku==0.3.1
 itsdangerous==1.1.0
